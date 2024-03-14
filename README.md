@@ -3,7 +3,7 @@
 This Python script `generate_password` generates random passwords of specified lengths.
 
 ## How It Works
-
+ 
 - It imports the `random` module.
 - The `generate_password` function takes a length parameter and returns a random password of that length, consisting of lowercase and uppercase letters, digits, and special characters.
 - When run directly, the script prompts the user to input the desired password length and then prints the generated password.
